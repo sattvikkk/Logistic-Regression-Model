@@ -8,7 +8,7 @@ Diabetes Prediction using Logistic Regression 📊🏥 Project Overview  This pr
 -Seaborn & Matplotlib
 -Scikit-learn
 
-##Dataset Features
+## Dataset Features
 -Pregnancies
 -Glucose
 -BloodPressure
